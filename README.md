@@ -5,6 +5,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![UI](https://img.shields.io/badge/GUI-CustomTkinter-10a37f.svg)](https://github.com/TomSchimansky/CustomTkinter)
 
+<p align="center">
+  <img src="screenshot.png" alt="TurboCopy Pro Arayüzü" width="900">
+</p>
+
 **TurboCopy Pro**, Windows'un standart kopyalama sisteminin (`explorer.exe`) büyük dosyalarda veya yüz binlerce küçük dosyada (HDD, harici USB diskler ve bölünmüş bölümler arasında) yaşadığı yavaşlık, kilitlenme ve önbellek tıkanması (RAM dirty-page stall) sorunlarını donanım seviyesinde çözen **yüksek hızlı ve modern dosya aktarım aracıdır**.
 
 ---
